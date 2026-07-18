@@ -14,7 +14,7 @@ Pour les enseignant·e·s du canton de Vaud, le matériel est empruntable à [[L
 Vous pouvez également fabriquer votre propre jeu en téléchargeant les fichiers [[ici]](https://doughnuteconomics.org/tools/l-atelier-du-doughnut-the-doughnut-workshop){:target="_blank"}
 
 ## L'échelle PETI 
-![](/images/peti.jpeg)
+![](/images/peti.jpg)
 Psychometric instrument measuring the Preference for Explanations in Terms of Interdependence [[in English]](https://osf.io/zgjtb/files/bc4qx){:target="_blank"}
 Instrument psychométrique mesurant la Préférence pour des Explications en Termes d'Interdépendance [[en Français]](https://osf.io/zgjtb/files/zftku){:target="_blank"}
 
