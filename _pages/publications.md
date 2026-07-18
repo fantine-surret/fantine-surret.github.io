@@ -21,3 +21,7 @@ author_profile: true
 ###Social interdependence in education : fostering children's pro-environmentat behaviors with cooperative learning
 **Surret, F. L.** (2025). *Social interdependence in education : fostering children's pro-environmentat behaviors with cooperative learning*. University of Lausanne, Switzerland.
 [[Full-text available]](https://iris.unil.ch/handle/iris/276901){:target="_blank"}
+
+##Popularizing research
+###Comment parler environnement pour faire mouche?
+[[Va savoir!]](https://mysteres.ch/app/uploads/sites/4/2025/05/VaSavoir3.pdf){:target="_blank"}
