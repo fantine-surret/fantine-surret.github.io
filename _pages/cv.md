@@ -141,4 +141,3 @@ Invitations & Scientific Dissemination
   * Invited as speaker for the first session of "What's new, doctor?" "The role of education in environmental issues." **Espace Dickens, Lausanne, Switzerland**
   * Invited as speaker at the Bon-en-Chablais Science Day. "The contribution of social psychology to environmental issues." **Bon-en-Chablais, France**
   * Invited as organizer for the workshop "Experiencing social interdependence to encourage pro-environmental behaviors." **UNIL, Lausanne, Switzerland**
-  
