@@ -18,7 +18,7 @@ author_profile: true
 
 ## Thesis Dissertation
 
-###Social interdependence in education : fostering children's pro-environmentat behaviors with cooperative learning
+### Social interdependence in education : fostering children's pro-environmentat behaviors with cooperative learning
 **Surret, F. L.** (2025). *Social interdependence in education : fostering children's pro-environmentat behaviors with cooperative learning*. University of Lausanne, Switzerland.
 [[Full-text available]](https://iris.unil.ch/handle/iris/276901){:target="_blank"}
 
