@@ -14,7 +14,7 @@ Cet atelier a pour but d’introduire la théorie du donut de Kate Raworth aupr�
 Pour les enseignant·e·s du canton de Vaud, le matériel est empruntable à [[L'Eprouvette]](https://www.eprouvette-unil.ch/evenement/une-vie-juste-et-durable-possible/){:target="_blank"}
 Vous pouvez également fabriquer votre propre jeu en téléchargeant les fichiers [[ici]](https://doughnuteconomics.org/tools/l-atelier-du-doughnut-the-doughnut-workshop){:target="_blank"}
 
-Contributors: **Fantine Surret**, Fabrizio Butera, Delphine Ducoulombier, Oxana Mroczek, Mathilde Strecha
+Contributors: Fantine Surret, Fabrizio Butera, Delphine Ducoulombier, Oxana Mroczek, Mathilde Strecha
 Graphics: Studio KO
 
 ## L'échelle PETI 
@@ -23,7 +23,7 @@ Psychometric instrument measuring the Preference for Explanations in Terms of In
 
 Instrument psychométrique mesurant la Préférence pour des Explications en Termes d'Interdépendance [[en Français]](https://osf.io/zgjtb/files/zftku){:target="_blank"}
 
-Contributors: **Fantine Surret**, Wojttek Swiatkowski, Emilio Paolo Visintin, Céline Buchs, Fabrizio Butera
+Contributors: Fantine Surret, Wojttek Swiatkowski, Emilio Paolo Visintin, Céline Buchs, Fabrizio Butera
 
 ## Les séances ECOopération
 A venir prochainement
