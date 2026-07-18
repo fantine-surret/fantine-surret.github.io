@@ -11,54 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Social Psychology, University of Lausanne (UNIL), Switzerland, 2025
+* M.S. in Education Sciences, University Grenoble Alpes (UGA), France, 2020
+* B.S. Education Sciences, University Grenoble Alpes (UGA), France, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* August 2026 - March 2027: Scientific collaborator & Project Manager
+  * Sustainability Competence Center, UNIL
+  * Topic: How Do Higher Education Teachers Address Controversial Issues?
+  * Supervisor: Thomas Jaccard
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* January 2025 - December 2025 : Postdoc Researcher
+  * Institute of Social Sciences, UNIL
+  * Topic : Analysis of the Implementation of a Gender Equality Education Tool 
+  * Supervisor: Lavinia Gianettoni
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* February 2020 - June 2020 : Research Assistant
+  * Department of Education Studies, University of Bologna, Italy
+  * Supervisor: Maria Cristina Matteucci
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* June 2017 : Research Assistant
+  * Department of Education Sciences, UGA
+  * Supervisor: Anne Laure De Place
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
