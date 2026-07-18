@@ -35,3 +35,35 @@ Work experience
   * Department of Education Sciences, UGA
   * Supervisor: Anne Laure De Place
   
+Teaching
+======
+* 2023 - 2025: Social Psychology C : Social psychology of the environment & Cooperation
+  * Course creation and teaching, under the supervision of Prof. Fabrizio Butera
+  * Bachelor level, 2h/week
+  *Humanities and Social Sciences Program, Swiss Federal Institute of Technology Lausanne (EPFL)
+  
+* 2023 - 2025: Social Psychology D : Perception & Jugement Social
+  * Teaching Assistant of Dr. Benoît Dompnier
+  * Bachelor level, 2h/week
+  *Humanities and Social Sciences Program, Swiss Federal Institute of Technology Lausanne (EPFL)
+  
+* 2023 - 2025: Social psychology of learning
+  * Teaching Assistant of Prof. Fabrizio Butera
+  * Master level, 2h/week
+  *Institute of Psychology, University of Lausanne (UNIL)
+  
+* 2022 - 2023: Research in environmental psychology
+  * Teaching Assistant of Dr. Oriane Sarrasin
+  * Master level, 2h/week
+  *Institute of Psychology, University of Lausanne (UNIL)
+  
+* 2020 - 2022: Development of a research project: Exploration of pro-environmental attitudes and behaviors
+  * Teaching Assistant of Dr. Oriane Sarrasin
+  * Bachelor level, 2h/week
+  *Institute of Psychology, University of Lausanne (UNIL)
+  
+Students supervision
+======
+## Master dissertations
+* 2023 - 2025:
+  *The influence of gendered and mixed group dynamics on the dimensions of cooperative learning in children in 5th and 6th grade.2 students: Alexandra Costa Santos, Leila Nabaiel
