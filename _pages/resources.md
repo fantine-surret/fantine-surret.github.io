@@ -23,7 +23,7 @@ Psychometric instrument measuring the Preference for Explanations in Terms of In
 
 Instrument psychométrique mesurant la Préférence pour des Explications en Termes d'Interdépendance [[en Français]](https://osf.io/zgjtb/files/zftku){:target="_blank"}
 
-Contributors: Fantine Surret, Wojttek Swiatkowski, Emilio Paolo Visintin, Céline Buchs, Fabrizio Butera
+Contributors: Fantine Surret, Wojtek Świątkowski, Emilio Paolo Visintin, Céline Buchs, Fabrizio Butera
 
 ## Les séances ECOopération
 A venir prochainement
