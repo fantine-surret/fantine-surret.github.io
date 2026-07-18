@@ -15,7 +15,8 @@ Pour les enseignant·e·s du canton de Vaud, le matériel est empruntable à [[L
 Vous pouvez également fabriquer votre propre jeu en téléchargeant les fichiers [[ici]](https://doughnuteconomics.org/tools/l-atelier-du-doughnut-the-doughnut-workshop){:target="_blank"}
 
 Contributors: Fantine Surret, Fabrizio Butera, Delphine Ducoulombier, Oxana Mroczek, Mathilde Strecha
-Graphics: Studio KO
+
+Graphics:Studio KO
 
 ## L'échelle PETI 
 ![](/images/peti.jpg)
