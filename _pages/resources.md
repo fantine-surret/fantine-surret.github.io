@@ -16,7 +16,7 @@ Vous pouvez également fabriquer votre propre jeu en téléchargeant les fichier
 
 Contributors: Fantine Surret, Fabrizio Butera, Delphine Ducoulombier, Oxana Mroczek, Mathilde Strecha
 
-Graphics:Studio KO
+Graphics: Studio KO
 
 ## L'échelle PETI 
 ![](/images/peti.jpg)
