@@ -7,7 +7,7 @@ author_profile: true
 
 ## Articles 
 
-###Promoting children’s pro-environmental behaviors with cooperative learning: A large-scale year-long experimental field intervention with fifth and sixth graders
+### Promoting children’s pro-environmental behaviors with cooperative learning: A large-scale year-long experimental field intervention with fifth and sixth graders
 **Surret, F. L.**, Świątkowski, W., Buchs, C., Visintin, E. P., & Butera, F. (2026). Promoting children’s pro-environmental behaviors with cooperative learning: A large-scale year-long experimental field intervention with fifth and sixth graders.*Journal of Educational Psychology*. Advance online publication. 
 [[Full-text available]](https://doi.org/10.1037/edu0001101){:target="_blank"}
 
