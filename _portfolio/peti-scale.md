@@ -1,6 +1,6 @@
 ---
 title: "PETI scale / Échelle PETI"
-excerpt: "Outil psychométrique [FR/EN]<br/><img src='/images/peti.jpg'>"
+excerpt: "Outil psychométrique [FR/EN]<br/><img src='/images/peti_500x300.jpg'>"
 collection: portfolio
 ---
 
