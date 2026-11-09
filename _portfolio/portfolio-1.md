@@ -1,7 +1,17 @@
 ---
-title: "The dought workshop - L'atelier du doughnut"
-excerpt: "this is an excerpt"
+title: "The doughnut workshop - L'atelier du doughnut"
+excerpt: "Materiel pédagogique"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+![](/images/donut.jpeg)
+This workshop aims to introduce Kate Raworth's doughnut theory to students at the end of elementary school. In two sessions, it uses cooperative learning to encourage students to work together to solve problems and develop collective decision-making skills. For now, the game is only available in French.
+
+Cet atelier a pour but d’introduire la théorie du donut de Kate Raworth auprès d'élèves de fin d'école primaire. En deux séances, il utilise l’apprentissage coopératif pour encourager les élèves à travailler ensemble afin de résoudre des problèmes et de développer des compétences de décision collective.
+
+Pour les enseignant·e·s du canton de Vaud, le matériel est empruntable à [[L'Eprouvette]](https://www.eprouvette-unil.ch/evenement/une-vie-juste-et-durable-possible/){:target="_blank"}
+Vous pouvez également fabriquer votre propre jeu en téléchargeant les fichiers [[ici]](https://doughnuteconomics.org/tools/l-atelier-du-doughnut-the-doughnut-workshop){:target="_blank"}
+
+Contributors: Fantine Surret, Fabrizio Butera, Delphine Ducoulombier, Oxana Mroczek, Mathilde Strecha
+
+Graphics: Studio KO 
