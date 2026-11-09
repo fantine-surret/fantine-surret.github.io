@@ -1,6 +1,6 @@
 ---
 title: "The doughnut workshop - L'atelier du doughnut"
-excerpt: "Materiel pédagogique"
+excerpt: "Materiel pédagogique [FR]<br/><img src='/images/donut.png'>"
 collection: portfolio
 ---
 
