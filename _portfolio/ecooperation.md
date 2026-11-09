@@ -1,6 +1,6 @@
 ---
 title: "Ecoopération"
-excerpt: "Materiel pédagogique [FR]"
+excerpt: "Materiel pédagogique [FR]<br/><img src='/images/ecoop.png'>"
 collection: portfolio
 ---
 
